@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1709502585 source:c:\users\kevin\desktop\tareas 2024a\sem. trad. leng. 2\tarea 01 analizador lexico\analizador_lexico\main.cpp
+	<string>
+	<iostream>
+	<bits/stdc++.h>
+
